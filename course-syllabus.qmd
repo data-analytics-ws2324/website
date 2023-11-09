@@ -90,8 +90,17 @@ You are expected to bring a laptop to each class so that you can take part in th
 
 Assessment for the course is comprised of these components: 
 
+- Application exercises 
 - Exams in Moodle
 - Project
+
+
+
+### Application exercises
+
+Parts of some lectures will be dedicated to working on "Application Exercises" (AE). These small exercises will be provided in GitHub Classroom and will give you an opportunity to apply the concepts and code introduced in the lectures.  
+
+AEs should be completed individually.
 
 
 ### Exams in Moodle
@@ -120,13 +129,13 @@ The final course grade will be calculated as follows:
 
 | Category              | Percentage      |
 |--|--|
-| Project               | 60%             |
-| Exams                 | 40%             |
-
+| Application exercises | 15             |
+| Exams                 | 35             |
+| Project               | 50             |
 
 The final grade will be determined based on the following thresholds:
 
-|  Grade       | Final Course Grade |
+|  Grade       | Percentage |
 |--|--|
 | 1.0           | 96 - 100          |
 | 1.3           | 91 - 95           |
