@@ -9,8 +9,8 @@ title: "Project description"
 | ---                   | ---           |  ---                  |
 | topic-ideas       |  Nov 15    | references/           |
 | project-proposal   |  Dec 01     | references/           |
-| draft-analysis     |  Dec 15    | Notebooks/            |
-| peer-review-draft  |  Dec 22    | use the issue-template|
+| draft-analysis     |  Dec 22    | Notebooks/            |
+| peer-review-draft  |  Jan 02    | use the issue-template|
 | report             | Jan 10    | reports/              |
 |  github-repo       | Jan 10   | "Repo in final state" |
 | presentation       | Jan 11  | "Final presentation"  |
