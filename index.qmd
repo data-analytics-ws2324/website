@@ -9,20 +9,19 @@ Welcome to our course Data Analytics with Statistics! 👋
  Note that this schedule will be updated as the seminar progresses.
 :::
 
-
-|	Week	|	Nr.	|	Topic	|	Literature	|		Slides		|	Links	|	Code	|	Covered	|
-|	---	|	---	|	---	|	---	|		---		|	---	|	---	|		|
-|		|		|	**Introduction**	|		|	<!--		-->	|		|		|		|
-|	1	|	1	|	Data driven decision making	|		|	<!--	[📑](https://docs.google.com/presentation/d/1AfzqhjEAfJ5X4Q8YC9GK14jEBfdDXEIRmXonriwYHNY/export/pdf)	-->	|		|		|		|
-|	1	|	2	|	Programming toolkit	|		|	<!--	[📑](https://docs.google.com/presentation/d/1AHDCyelaOumvZ9-MRLEaSGCulXvvo-hcoFRrTESQW-c/export/pdf)	-->	|		|		|		|
-|	1	|	3	|	Data Science Lifecycle Overview	|		|	<!--	[📑](https://docs.google.com/presentation/d/1LR0LmvKFycE3MIjfDEp6L_bGdJtCOe60rFycWIYayBI/export/pdf)	-->	|	[💽 loans.csv](https://raw.githubusercontent.com/kirenz/datasets/master/loans.csv)	|		|		|
-|	1	|	4	|	Use case identification	|		|	<!--	[📑](https://docs.google.com/presentation/d/1RT7IhYgLgNJ8RiT28sMr8Mfyk5y_e-rfYg3jRsPKGEA/export/pdf)	-->	|		|		|		|
-|	1	|	5	|	Frame the Problem	|		|	<!--	[📑](https://docs.google.com/presentation/d/12WRK3EgiHOHz2vsJnYxIxNvDQmjTMax1iTSqsjVr7JY/export/pdf)	-->	|		|		|		|
-|	1	|	6	|	Identify Variables	|		|	<!--	[📑](https://docs.google.com/presentation/d/1VqXuDX_3VFNOGMw3y3uQmvFr2m7b6BlW3if_icQSstM/export/pdf)	-->	|		|		|		|
-|	1	|	7	|	Define Metrics	|		|	<!--	[📑](https://docs.google.com/presentation/d/1vlVqqU4Frt8y_GaCs4qVx7EVPyNravGhpgkV6tGeYmY/export/pdf)	-->	|		|		|		|
-|		|		|	**Data**	|		|	<!--		-->	|		|		|		|
-|	1	|	8	|	First Data Analysis	|	[📚](https://openintro-ims.netlify.app/data-hello.html#case-study-stents-strokes)	|	<!--	[📑](https://docs.google.com/presentation/d/1YXoCWZv37c3u_cMBc3o2_IG_atDlGdLhCwin_Rciwck/export/pdf)	-->	|	[📊](https://docs.google.com/spreadsheets/d/1QO0UfC43YwJ0YIg5LWaYkVUX-qGh93wZZ6JLyHa3_bg/edit?usp=sharing)	|	[💻](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ae/1_netflix.ipynb)	|		|
-|	1	|	9	|	Data basics	|	[📚](https://openintro-ims.netlify.app/data-hello.html#data-basics)	|	<!--	[📑](https://docs.google.com/presentation/d/1IlR_HTTNE865xiT3GlXD5_RNZDMMtlbNKRftLXPPmsw/export/pdf)	-->	|	[☑️](https://forms.gle/EJT7mcYgPi8drKgR9)	|		|		|
-|	1	|	10	|	How to obtain data	|		|	<!--	[📑](https://docs.google.com/presentation/d/1zldRDAOqmjoJmY_D4-ZkWfhwaklt-UfAPKH4G5kmFVY/export/pdf)	-->	|		|		|		|
-|	1	|	11	|	Data wrangling: Pandas lab	|	[📚](https://pandas.pydata.org/docs/)	|	<!--	[💻](https://kirenz.github.io/lab-pandas-intro)	-->	|		|		|		|
-|	1	|	12	|	Data analysis: Survey lab	|		|	<!--	[💻](https://kirenz.github.io/lab-survey)	-->	|		|		|		|
+Nr.	|	Topic	|	Literature	|		Slides		|	Links	|	Code	|
+---	|	---	|	---	|		---		|	---	|	---	|
+	|	**Introduction**	|		|	<!--		-->	|		|		|
+1	|	Data driven decision making	|		|	<!--	[📑](https://docs.google.com/presentation/d/1AfzqhjEAfJ5X4Q8YC9GK14jEBfdDXEIRmXonriwYHNY/export/pdf)	-->	|		|		|
+2	|	Programming toolkit	|		|	<!--	[📑](https://docs.google.com/presentation/d/1AHDCyelaOumvZ9-MRLEaSGCulXvvo-hcoFRrTESQW-c/export/pdf)	-->	|		|		|
+3	|	Data Science Lifecycle Overview	|		|	<!--	[📑](https://docs.google.com/presentation/d/1LR0LmvKFycE3MIjfDEp6L_bGdJtCOe60rFycWIYayBI/export/pdf)	-->	|	[💽 loans.csv](https://raw.githubusercontent.com/kirenz/datasets/master/loans.csv)	|		|
+4	|	Use case identification	|		|	<!--	[📑](https://docs.google.com/presentation/d/1RT7IhYgLgNJ8RiT28sMr8Mfyk5y_e-rfYg3jRsPKGEA/export/pdf)	-->	|		|		|
+5	|	Frame the Problem	|		|	<!--	[📑](https://docs.google.com/presentation/d/12WRK3EgiHOHz2vsJnYxIxNvDQmjTMax1iTSqsjVr7JY/export/pdf)	-->	|		|		|
+6	|	Identify Variables	|		|	<!--	[📑](https://docs.google.com/presentation/d/1VqXuDX_3VFNOGMw3y3uQmvFr2m7b6BlW3if_icQSstM/export/pdf)	-->	|		|		|
+7	|	Define Metrics	|		|	<!--	[📑](https://docs.google.com/presentation/d/1vlVqqU4Frt8y_GaCs4qVx7EVPyNravGhpgkV6tGeYmY/export/pdf)	-->	|		|		|
+	|	**Data**	|		|	<!--		-->	|		|		|
+8	|	First Data Analysis	|	[📚](https://openintro-ims.netlify.app/data-hello.html#case-study-stents-strokes)	|	<!--	[📑](https://docs.google.com/presentation/d/1YXoCWZv37c3u_cMBc3o2_IG_atDlGdLhCwin_Rciwck/export/pdf)	-->	|	[📊](https://docs.google.com/spreadsheets/d/1QO0UfC43YwJ0YIg5LWaYkVUX-qGh93wZZ6JLyHa3_bg/edit?usp=sharing)	|	[💻](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ae/1_netflix.ipynb)	|
+9	|	Data basics	|	[📚](https://openintro-ims.netlify.app/data-hello.html#data-basics)	|	<!--	[📑](https://docs.google.com/presentation/d/1IlR_HTTNE865xiT3GlXD5_RNZDMMtlbNKRftLXPPmsw/export/pdf)	-->	|	[☑️](https://forms.gle/EJT7mcYgPi8drKgR9)	|		|
+10	|	How to obtain data	|		|	<!--	[📑](https://docs.google.com/presentation/d/1zldRDAOqmjoJmY_D4-ZkWfhwaklt-UfAPKH4G5kmFVY/export/pdf)	-->	|		|		|
+11	|	Data wrangling: Pandas lab	|	[📚](https://pandas.pydata.org/docs/)	|	<!--	[💻](https://kirenz.github.io/lab-pandas-intro)	-->	|		|		|
+12	|	Data analysis: Survey lab	|		|	<!--	[💻](https://kirenz.github.io/lab-survey)	-->	|		|		|
