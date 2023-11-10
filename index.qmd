@@ -10,7 +10,7 @@ Welcome to our course Data Analytics with Statistics! 👋
 :::
 
 Nr.	|	Topic	|	Literature	|		Slides		|	Links	|	Code	|	Lecture/Online	|
----	|	---	|	---	|		---		|	---	|	---	|		|
+---	|	---	|	---	|		---		|	---	|	---	|	---	|
 	|	**Introduction**	|		|				|		|		|		|
 1	|	Data driven decision making	|		|		[📑](https://docs.google.com/presentation/d/1AfzqhjEAfJ5X4Q8YC9GK14jEBfdDXEIRmXonriwYHNY/export/pdf)		|		|		|	L	|
 2	|	Programming toolkit	|		|		[📑](https://docs.google.com/presentation/d/1AHDCyelaOumvZ9-MRLEaSGCulXvvo-hcoFRrTESQW-c/export/pdf)		|		|		|	L	|
