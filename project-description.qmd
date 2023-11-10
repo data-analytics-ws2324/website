@@ -20,7 +20,7 @@ title: "Project description"
 
 **TL;DR**: *Pick a data set and use the concepts and methods covered in our course (data from Kaggle is not allowed).*
 
-The goal of the project is for you to use analytical methods to analyze a data set of your own choosing.
+The goal of the project is for you to use analytical methods to analyze a data set of your own choosing. You need to perform both regression and classification analysis.
 
 Choose the data based on your group's interests or work you all have done in other courses or at your company.
 The goal of this project is for you to demonstrate proficiency in the techniques we have covered in this class (and beyond, if you like) and apply them to a data set to analyze it in a meaningful way.
@@ -130,10 +130,10 @@ This includes
 In this section, you will provide a brief overview of your analysis approach.
 This includes:
 
--   Description of the response variable.
--   Visualization and summary statistics for the response variable.
+-   Description of the response variables.
+-   Visualization and summary statistics for the response variables.
 -   List of variables that will be considered as predictors
--   Your model type (what kind of model(s) will you use ... e.g. linear regression)
+-   Your model types (what kind of model(s) will you use)
 
 ### Data dictionary
 
