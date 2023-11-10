@@ -9,24 +9,42 @@ Welcome to our course Data Analytics with Statistics! 👋
  Note that this schedule will be updated as the seminar progresses.
 :::
 
-Nr.	|	Topic	|	Literature	|		Slides		|	Links	|	Code	|	Lecture/Online	|
----	|	---	|	---	|		---		|	---	|	---	|	---	|
-	|	**Introduction**	|		|				|		|		|		|
-1	|	Data driven decision making	|		|		[📑](https://docs.google.com/presentation/d/1AfzqhjEAfJ5X4Q8YC9GK14jEBfdDXEIRmXonriwYHNY/export/pdf)		|		|		|	L	|
-2	|	Programming toolkit	|		|		[📑](https://docs.google.com/presentation/d/1AHDCyelaOumvZ9-MRLEaSGCulXvvo-hcoFRrTESQW-c/export/pdf)		|		|		|	L	|
-3	|	Data Science Lifecycle Overview	|		|		[📑](https://docs.google.com/presentation/d/1LR0LmvKFycE3MIjfDEp6L_bGdJtCOe60rFycWIYayBI/export/pdf)		|	[💽 loans.csv](https://raw.githubusercontent.com/kirenz/datasets/master/loans.csv)	|		|	L	|
-4	|	Use case identification	|		|		[📑](https://docs.google.com/presentation/d/1RT7IhYgLgNJ8RiT28sMr8Mfyk5y_e-rfYg3jRsPKGEA/export/pdf)		|		|		|	O	|
-5	|	Frame the Problem	|		|		[📑](https://docs.google.com/presentation/d/12WRK3EgiHOHz2vsJnYxIxNvDQmjTMax1iTSqsjVr7JY/export/pdf)		|		|		|	O	|
-6	|	Identify Variables	|		|		[📑](https://docs.google.com/presentation/d/1VqXuDX_3VFNOGMw3y3uQmvFr2m7b6BlW3if_icQSstM/export/pdf)		|		|		|	O	|
-7	|	Define Metrics	|		|		[📑](https://docs.google.com/presentation/d/1vlVqqU4Frt8y_GaCs4qVx7EVPyNravGhpgkV6tGeYmY/export/pdf)		|		|		|	O	|
-	|	**Data**	|		|				|		|		|		|
-8	|	First Data Analysis	|	[📚](https://openintro-ims.netlify.app/data-hello.html#case-study-stents-strokes)	|		[📑](https://docs.google.com/presentation/d/1YXoCWZv37c3u_cMBc3o2_IG_atDlGdLhCwin_Rciwck/export/pdf)		|	[📊](https://docs.google.com/spreadsheets/d/1QO0UfC43YwJ0YIg5LWaYkVUX-qGh93wZZ6JLyHa3_bg/edit?usp=sharing)	|	[💻](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ae/1_netflix.ipynb)	|	L	|
-9	|	Data basics	|	[📚](https://openintro-ims.netlify.app/data-hello.html#data-basics)	|	<!--	[📑](https://docs.google.com/presentation/d/1IlR_HTTNE865xiT3GlXD5_RNZDMMtlbNKRftLXPPmsw/export/pdf)	-->	|	[☑️](https://forms.gle/EJT7mcYgPi8drKgR9)	|		|		|
-10	|	How to obtain data	|		|	<!--	[📑](https://docs.google.com/presentation/d/1zldRDAOqmjoJmY_D4-ZkWfhwaklt-UfAPKH4G5kmFVY/export/pdf)	-->	|		|		|		|
-11	|	Data wrangling: Pandas lab	|	[📚](https://pandas.pydata.org/docs/)	|	<!--	[💻](https://kirenz.github.io/lab-pandas-intro)	-->	|		|		|		|
-12	|	Data analysis: Survey lab	|		|	<!--	[💻](https://kirenz.github.io/lab-survey)	-->	|		|		|		|
-	|	**Study Design**	|		|	<!--		-->	|		|		|		|
-13	|	Population and sample	|	[📚](https://openintro-ims.netlify.app/data-design.html#data-design)	|	<!--	[📑](https://docs.google.com/presentation/d/1QPdxp5sFumf9zee-WypsuzSkY7n_hvkhFsdJkRF3-pw/export/pdf)	-->	|	[☑️](https://forms.gle/qPYg55ncRyUGCqXH8)	|		|		|
-14	|	Sampling methods	|	[📚](https://openintro-ims.netlify.app/data-design.html#sampling-principles-strategies)	|	<!--	[📑](https://docs.google.com/presentation/d/1Rby9NR9F8pu1xHka0Xt1vvbH-oDRfrFC-bwb49IbhA8/export/pdf)	-->	|	[☑️](https://forms.gle/SnQsTPKF5CRQ1Wa49)	|		|		|
-15	|	Experiments	|	[📚](https://openintro-ims.netlify.app/data-design.html#experiments)	|	<!--	[📑](https://docs.google.com/presentation/d/1FTNBLYBCId2qsL1sMJf3qgBtaFH3hpbUm8lPck5BaTQ/export/pdf)	-->	|	[☑️](https://forms.gle/6Tu92Ez83XANW8Un6)	|		|		|
-16	|	Observations	|	[📚](https://openintro-ims.netlify.app/data-design.html#observational-studies)	|	<!--	[📑](https://docs.google.com/presentation/d/1Oz5T_nuO1UFcjbliFmsEQWxG1dKJHDPPNWDeTvukxbE/export/pdf)	-->	|	[☑️](https://forms.gle/V36KmsTjeH2finms9)	|		|		|
+
+Nr.	|	Topic	|	Literature	|		Slides		|	Links	|		Code		|	Lecture/Online	|
+---	|	---	|	---	|		---		|	---	|		---		|	---	|
+	|	**Introduction**	|		|				|		|				|		|
+1	|	Data driven decision making	|		|		[📑](https://docs.google.com/presentation/d/1AfzqhjEAfJ5X4Q8YC9GK14jEBfdDXEIRmXonriwYHNY/export/pdf)		|		|				|	L	|
+2	|	Programming toolkit	|		|		[📑](https://docs.google.com/presentation/d/1AHDCyelaOumvZ9-MRLEaSGCulXvvo-hcoFRrTESQW-c/export/pdf)		|		|				|	L	|
+3	|	Data Science Lifecycle Overview	|		|		[📑](https://docs.google.com/presentation/d/1LR0LmvKFycE3MIjfDEp6L_bGdJtCOe60rFycWIYayBI/export/pdf)		|		|				|	L	|
+4	|	Use case identification	|		|		[📑](https://docs.google.com/presentation/d/1RT7IhYgLgNJ8RiT28sMr8Mfyk5y_e-rfYg3jRsPKGEA/export/pdf)		|		|				|		|
+5	|	Frame the Problem	|		|		[📑](https://docs.google.com/presentation/d/12WRK3EgiHOHz2vsJnYxIxNvDQmjTMax1iTSqsjVr7JY/export/pdf)		|		|				|		|
+6	|	Identify Variables	|		|		[📑](https://docs.google.com/presentation/d/1VqXuDX_3VFNOGMw3y3uQmvFr2m7b6BlW3if_icQSstM/export/pdf)		|		|				|		|
+7	|	Define Metrics	|		|		[📑](https://docs.google.com/presentation/d/1vlVqqU4Frt8y_GaCs4qVx7EVPyNravGhpgkV6tGeYmY/export/pdf)		|		|				|		|
+	|	**Data**	|		|				|		|				|		|
+8	|	First Data Analysis	|	[📚](https://openintro-ims.netlify.app/data-hello.html#case-study-stents-strokes)	|		[📑](https://docs.google.com/presentation/d/1YXoCWZv37c3u_cMBc3o2_IG_atDlGdLhCwin_Rciwck/export/pdf)		|		|		[💻](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ae/1_netflix.ipynb)		|	L	|
+9	|	Data basics	|	[📚](https://openintro-ims.netlify.app/data-hello.html#data-basics)	|		[📑](https://docs.google.com/presentation/d/1IlR_HTTNE865xiT3GlXD5_RNZDMMtlbNKRftLXPPmsw/export/pdf)		|	[☑️](https://forms.gle/EJT7mcYgPi8drKgR9)	|				|	L	|
+10	|	How to obtain data	|		|	<!--	[📑](https://docs.google.com/presentation/d/1zldRDAOqmjoJmY_D4-ZkWfhwaklt-UfAPKH4G5kmFVY/export/pdf)	-->	|		|				|		|
+11	|	Data wrangling: Pandas lab	|	[📚](https://pandas.pydata.org/docs/)	|	<!--	[💻](https://kirenz.github.io/lab-pandas-intro)	-->	|		|				|		|
+12	|	Data analysis: Survey lab	|		|	<!--	[💻](https://kirenz.github.io/lab-survey)	-->	|		|				|		|
+	|	**Study Design**	|		|	<!--		-->	|		|				|		|
+13	|	Population and sample	|	[📚](https://openintro-ims.netlify.app/data-design.html#data-design)	|	<!--	[📑](https://docs.google.com/presentation/d/1QPdxp5sFumf9zee-WypsuzSkY7n_hvkhFsdJkRF3-pw/export/pdf)	-->	|	[☑️](https://forms.gle/qPYg55ncRyUGCqXH8)	|				|		|
+14	|	Sampling methods	|	[📚](https://openintro-ims.netlify.app/data-design.html#sampling-principles-strategies)	|	<!--	[📑](https://docs.google.com/presentation/d/1Rby9NR9F8pu1xHka0Xt1vvbH-oDRfrFC-bwb49IbhA8/export/pdf)	-->	|	[☑️](https://forms.gle/SnQsTPKF5CRQ1Wa49)	|				|		|
+15	|	Experiments	|	[📚](https://openintro-ims.netlify.app/data-design.html#experiments)	|	<!--	[📑](https://docs.google.com/presentation/d/1FTNBLYBCId2qsL1sMJf3qgBtaFH3hpbUm8lPck5BaTQ/export/pdf)	-->	|	[☑️](https://forms.gle/6Tu92Ez83XANW8Un6)	|				|		|
+16	|	Observations	|	[📚](https://openintro-ims.netlify.app/data-design.html#observational-studies)	|	<!--	[📑](https://docs.google.com/presentation/d/1Oz5T_nuO1UFcjbliFmsEQWxG1dKJHDPPNWDeTvukxbE/export/pdf)	-->	|	[☑️](https://forms.gle/V36KmsTjeH2finms9)	|				|		|
+	|	**EDA with categorical data**	|		|	<!--		-->	|		|				|		|
+17	|	Loans data	|	[📚](https://openintro-ims.netlify.app/explore-categorical.html#explore-categorical)	|	<!--	[📑](https://docs.google.com/presentation/d/1o0TVpTvndPA1J23CdTtEThYSekjudkGXuW9HiEA65yc/export/pdf)	-->	|		|	<!--	[💻](https://colab.research.google.com/github/kirenz/lab-altair/blob/main/ae/04-1-data-overview.ipynb)	-->	|		|
+18	|	Contingency tables	|	[📚](https://openintro-ims.netlify.app/explore-categorical.html#contingency-tables-and-bar-plots)	|	<!--	[📑](https://docs.google.com/presentation/d/1xIfx5wWjSi2ciGDo3OcYmjOYWzQZ5jWC-UwqioKKO6k/export/pdf)	-->	|		|	<!--	[💻](https://colab.research.google.com/github/kirenz/lab-altair/blob/main/ae/04-1-contingency-table.ipynb)	-->	|		|
+19	|	Contingency tables with proportions	|	[📚](https://openintro-ims.netlify.app/explore-categorical.html#row-and-column-proportions)	|	<!--	[📑](https://docs.google.com/presentation/d/1fY1jRrnluZg9MDei9hcdtCRmRXlUqCg6lonQVzkItPQ/export/pdf)	-->	|		|	<!--	[💻](https://colab.research.google.com/github/kirenz/lab-altair/blob/main/ae/04-3-row-column-proportions.ipynb)	-->	|	L	|
+20	|	Simple bar chart	|	[📚](https://openintro-ims.netlify.app/explore-categorical.html#contingency-tables-and-bar-plots)	|	<!--	[📑](https://docs.google.com/presentation/d/1RpYvnIxE5QCK3-urCa76CHUvDqOKlFb7TdAn6XgYjew/export/pdf)	-->	|		|	<!--	[💻](https://colab.research.google.com/github/kirenz/lab-altair/blob/main/ae/04-1-bar-chart-altair.ipynb)	-->	|	L	|
+21	|	Stacked bar plot	|	[📚](https://openintro-ims.netlify.app/explore-categorical.html#bar-plots-with-two-variables)	|	<!--	[📑](https://docs.google.com/presentation/d/1TU5pqJqfgzcBRitDtSxjdRPhwl2TM9Rt3u3FHTPT020/export/pdf)	-->	|		|	<!--	[💻](https://colab.research.google.com/github/kirenz/lab-altair/blob/main/ae/04-2-stacked-bar-chart-altair.ipynb)	-->	|	L	|
+22	|	Standardized bar plot	|	[📚](https://openintro-ims.netlify.app/explore-categorical.html#bar-plots-with-two-variables)	|	<!--	[📑](https://docs.google.com/presentation/d/1BV7XwkZLfTMe5acsDomL3pcSsNhatpswRa11XuzNuLQ/export/pdf)	-->	|		|	<!--	[💻](https://colab.research.google.com/github/kirenz/lab-altair/blob/main/ae/04-2-standardized-bar-chart-altair.ipynb)	-->	|	L	|
+23	|	Pie chart	|	[📚](https://openintro-ims.netlify.app/explore-categorical.html#pie-charts)	|	<!--	[📑](https://docs.google.com/presentation/d/1Ks3jugleTrpLHwI0CDcPl2P7Uvj5z-iR35iTKJeNGxY/export/pdf)	-->	|		|	<!--	[💻](https://colab.research.google.com/github/kirenz/lab-altair/blob/main/ae/04-4-pie-charts-altair.ipynb)	-->	|		|
+	|	**EDA with numerical data**	|		|	<!--		-->	|		|	<!--		-->	|		|
+24	|	Scatterplot	|	[📚](https://openintro-ims.netlify.app/explore-numerical.html#scatterplots)	|	<!--	[📑](https://docs.google.com/presentation/d/1K13NYtk-fXgIZCszUWkSN1FWqLPf8Ey8U7l9YZSQDtU/export/pdf)	-->	|		|	<!--	[💻](https://colab.research.google.com/github/kirenz/lab-altair/blob/main/ae/05-1-scatterplot-paired-data-altair.ipynb)	-->	|		|
+25	|	Dot plot mean median and mode	|	[📚](https://openintro-ims.netlify.app/explore-numerical.html#dotplots)	|	<!--	[📑](https://docs.google.com/presentation/d/1x0gxZ063LQOHHvvTdwP_086HPfl3Ul2PuzGDZFLXzI0/export/pdf)	-->	|		|	<!--	[💻](https://colab.research.google.com/github/kirenz/lab-altair/blob/main/ae/05-2-dot-plots-mean-altair.ipynb)	-->	|		|
+26	|	Histogram 	|	[📚](https://openintro-ims.netlify.app/explore-numerical.html#histograms)	|	<!--	[📑](https://docs.google.com/presentation/d/1tpbG5V28sIVdLuE_oIWzz59tRMRNL8baXu2xHzE4Hb4/export/pdf)	-->	|		|	<!--	[💻](https://colab.research.google.com/github/kirenz/lab-altair/blob/main/ae/05-3-histograms-altair.ipynb)	-->	|		|
+27	|	Kernel density plot	|	[📚](https://openintro-ims.netlify.app/explore-numerical.html#histograms)	|	<!--	[📑](https://docs.google.com/presentation/d//export/pdf)	-->	|		|	<!--	[💻](https://colab.research.google.com/github/kirenz/lab-altair/blob/main/ae/05-3-histograms-kernel-density-altair.ipynb)	-->	|		|
+28	|	Box Plot	|	[📚](https://openintro-ims.netlify.app/explore-numerical.html#boxplots)	|	<!--	[📑](https://docs.google.com/presentation/d/1VqT9rAbE_1zfhLrWNiQRiOjiJ0-pSjN1T0DM_BMAl_A/export/pdf)	-->	|		|	<!--	[💻](https://colab.research.google.com/github/kirenz/lab-altair/blob/main/ae/05-5-box-plot-altair.ipynb)	-->	|		|
+29	|	Comparing numerical data across groups	|	[📚](https://openintro-ims.netlify.app/explore-categorical.html#comparing-numerical-data-across-groups)	|	<!--	[📑](https://docs.google.com/presentation/d/1yWzxDmaSVwygOQoAuRdYLq_32lIe_utHlaOWW5f63jk/export/pdf)	-->	|		|	<!--	[💻](https://colab.research.google.com/github/kirenz/lab-altair/blob/main/ae/04-6-comparisons-across-groups-altair.ipynb)	-->	|		|
+30	|	Variance and standard deviation	|	[📚](https://openintro-ims.netlify.app/explore-numerical.html#histograms)	|	<!--	[📑](https://docs.google.com/presentation/d/1bsu5VJyS1LMFM3N6oh66dQ-Qf3DWiqRMPvasIbRqpLU/export/pdf)	-->	|		|	<!--		-->	|		|
+31	|	Robust statistics and transformations	|	[📚](https://openintro-ims.netlify.app/explore-numerical.html#robust-statistics)	|	<!--	[📑](https://docs.google.com/presentation/d/16Oy2-hXJgTd4IUjYSj6ZN0gBimS_Oe5OSpe7B6I91qg/export/pdf)	-->	|		|			-->	|		|
