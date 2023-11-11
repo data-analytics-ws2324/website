@@ -9,7 +9,6 @@ Welcome to our course Data Analytics with Statistics! 👋
  Note that this schedule will be updated as the seminar progresses.
 :::
 
-
 |	Nr.	|	Topic	|	Literature	|		Slides		|	Links	|	Code	|	Lecture/Online	|
 |	---	|	---	|	---	|		---		|	---	|	---	|	---	|
 |	1	|	**Introduction**	|		|				|		|		|		|
@@ -60,9 +59,9 @@ Welcome to our course Data Analytics with Statistics! 👋
 |	46	|	R squared	|	[📚](https://openintro-ims.netlify.app/model-slr.html#r-squared)	|		[📑](https://docs.google.com/presentation/d/1ZIijR7F877M9peDH2rhb3IO7dP6JGDd1ypz_C2pAyGI/export/pdf)		|		|	[💻](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ims/07-4-strength-fit.ipynb)	|	L	|
 |	47	|	Categorical predictors with two levels	|	[📚](https://openintro-ims.netlify.app/model-slr.html#categorical-predictor-two-levels)	|		[📑](https://docs.google.com/presentation/d/1Ca1pslYtl_bsPgY00JMhseV4klnU81AWw6s5Y8a15PA/export/pdf)		|		|	[💻](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ims/07-5-categorical.ipynb)	|	L	|
 |	48	|	Outliers	|	[📚](https://openintro-ims.netlify.app/model-slr.html#outliers-in-regression)	|		[📑](https://docs.google.com/presentation/d/1UxbXpM0_BtZu9nAUczUopOOGT39hzn9Ucz0jOTYmM_Y/export/pdf)		|		|		|		|
-|	49	|	Multiple predictors regression 1	|	[📚](https://openintro-ims.netlify.app/model-mlr.html#model-mlr)	|		[📑](https://docs.google.com/presentation/d/1ijhtWW58Kx1-ltulPSc1dKotJrXS7ZTGi6RFCKOGStA/export/pdf)	-->	|	[☑️](https://forms.gle/wHPHMvbTDczNaQD97)	|	[💻](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ims/08a-1-multiple.ipynb)	|		|
-|	50	|	Multiple predictors regression 2	|		|				|		|	[💻](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ims/08a-2-multiple.ipynb)	|		|
-|	51	|	Multiple predictors regression 3	|		|				|		|	[💻](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ims/08a-3-multiple.ipynb)	|		|
+|	49	|	Multiple predictors regression 1	|	[📚](https://openintro-ims.netlify.app/model-mlr.html#model-mlr)	|		[📑](https://docs.google.com/presentation/d/1ijhtWW58Kx1-ltulPSc1dKotJrXS7ZTGi6RFCKOGStA/export/pdf)		|	[☑️](https://forms.gle/wHPHMvbTDczNaQD97)	|	[💻](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ims/08a-1-multiple.ipynb)	|	L	|
+|	50	|	Multiple predictors regression 2	|		|				|		|	[💻](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ims/08a-2-multiple.ipynb)	|	L	|
+|	51	|	Multiple predictors regression 3	|		|				|		|	[💻](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ims/08a-3-multiple.ipynb)	|	L	|
 |	52	|	**Linear Regression with Data Splitting**	|		|				|		|		|		|
 |	53	|	Regression example happier	|		|	<!--	[📑](https://docs.google.com/presentation/d/1ZrzKUPZqp7GlCAh4uFpXnvUW6kQTvUgD2G-YZ7B24aM/export/pdf)	-->	|		|	[💻](https://colab.research.google.com/github/kirenz/lab-models/blob/main/mr/happier-c.ipynb)	|		|
 |	54	|	Main model challenges	|		|	<!--	[📑](https://docs.google.com/presentation/d/1WPUVfUe4rZu1bt61IwjneHqldhH9nC6U0F_u7Mj_ZL4/export/pdf)	-->	|		|		|		|
