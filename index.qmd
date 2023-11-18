@@ -9,7 +9,6 @@ Welcome to our course Data Analytics with Statistics! 👋
  Note that this schedule will be updated as the seminar progresses.
 :::
 
-
 |	Nr.	|	Topic	|	Literature	|		Slides		|	Links	|	Code	|	Activity	|
 |	---	|	---	|	---	|		---		|	---	|	---	|	---	|
 |	1	|	**Introduction**	|		|				|		|		|		|
@@ -43,10 +42,10 @@ Welcome to our course Data Analytics with Statistics! 👋
 |	29	|	Scatterplot	|	[📚](https://openintro-ims.netlify.app/explore-numerical.html#scatterplots)	|		[📑](https://docs.google.com/presentation/d/1K13NYtk-fXgIZCszUWkSN1FWqLPf8Ey8U7l9YZSQDtU/export/pdf)		|		|	[💻](https://colab.research.google.com/github/kirenz/lab-altair/blob/main/ae/05-1-scatterplot-paired-data-altair.ipynb)	|	Self-study	|
 |	30	|	Dot plot mean median and mode	|	[📚](https://openintro-ims.netlify.app/explore-numerical.html#dotplots)	|		[📑](https://docs.google.com/presentation/d/1x0gxZ063LQOHHvvTdwP_086HPfl3Ul2PuzGDZFLXzI0/export/pdf)		|		|	[💻](https://colab.research.google.com/github/kirenz/lab-altair/blob/main/ae/05-2-dot-plots-mean-altair.ipynb)	|	Lecture	|
 |	31	|	Histogram 	|	[📚](https://openintro-ims.netlify.app/explore-numerical.html#histograms)	|		[📑](https://docs.google.com/presentation/d/1tpbG5V28sIVdLuE_oIWzz59tRMRNL8baXu2xHzE4Hb4/export/pdf)		|		|	[💻](https://colab.research.google.com/github/kirenz/lab-altair/blob/main/ae/05-3-histograms-altair.ipynb)	|	Lecture	|
-|	32	|	Kernel density plot	|	[📚](https://openintro-ims.netlify.app/explore-numerical.html#histograms)	|		[📑](https://docs.google.com/presentation/d//export/pdf)		|		|	[💻](https://colab.research.google.com/github/kirenz/lab-altair/blob/main/ae/05-3-histograms-kernel-density-altair.ipynb)	|	Lecture	|
-|	33	|	Box Plot	|	[📚](https://openintro-ims.netlify.app/explore-numerical.html#boxplots)	|		[📑](https://docs.google.com/presentation/d/1VqT9rAbE_1zfhLrWNiQRiOjiJ0-pSjN1T0DM_BMAl_A/export/pdf)		|		|	[💻](https://colab.research.google.com/github/kirenz/lab-altair/blob/main/ae/05-5-box-plot-altair.ipynb)	|	Lecture	|
-|	34	|	Comparing numerical data across groups	|	[📚](https://openintro-ims.netlify.app/explore-categorical.html#comparing-numerical-data-across-groups)	|		[📑](https://docs.google.com/presentation/d/1yWzxDmaSVwygOQoAuRdYLq_32lIe_utHlaOWW5f63jk/export/pdf)		|		|	[💻](https://colab.research.google.com/github/kirenz/lab-altair/blob/main/ae/04-6-comparisons-across-groups-altair.ipynb)	|	Lecture	|
-|	35	|	Variance and standard deviation	|	[📚](https://openintro-ims.netlify.app/explore-numerical.html#histograms)	|		[📑](https://docs.google.com/presentation/d/1bsu5VJyS1LMFM3N6oh66dQ-Qf3DWiqRMPvasIbRqpLU/export/pdf)		|		|		|	Self-study	|
+|	32	|	Box Plot	|	[📚](https://openintro-ims.netlify.app/explore-numerical.html#boxplots)	|		[📑](https://docs.google.com/presentation/d/1VqT9rAbE_1zfhLrWNiQRiOjiJ0-pSjN1T0DM_BMAl_A/export/pdf)		|		|	[💻](https://colab.research.google.com/github/kirenz/lab-altair/blob/main/ae/05-5-box-plot-altair.ipynb)	|	Lecture	|
+|	33	|	Comparing numerical data across groups	|	[📚](https://openintro-ims.netlify.app/explore-categorical.html#comparing-numerical-data-across-groups)	|		[📑](https://docs.google.com/presentation/d/1yWzxDmaSVwygOQoAuRdYLq_32lIe_utHlaOWW5f63jk/export/pdf)		|		|	[💻](https://colab.research.google.com/github/kirenz/lab-altair/blob/main/ae/04-6-comparisons-across-groups-altair.ipynb)	|	Lecture	|
+|	34	|	Variance and standard deviation	|	[📚](https://openintro-ims.netlify.app/explore-numerical.html#histograms)	|		[📑](https://docs.google.com/presentation/d/1bsu5VJyS1LMFM3N6oh66dQ-Qf3DWiqRMPvasIbRqpLU/export/pdf)		|		|		|	Lecture	|
+|	35	|	Kernel density plot	|	[📚](https://openintro-ims.netlify.app/explore-numerical.html#histograms)	|				|		|	[💻](https://colab.research.google.com/github/kirenz/lab-altair/blob/main/ae/05-3-histograms-kernel-density-altair.ipynb)	|	Self-study	|
 |	36	|	Robust statistics and transformations	|	[📚](https://openintro-ims.netlify.app/explore-numerical.html#robust-statistics)	|		[📑](https://docs.google.com/presentation/d/16Oy2-hXJgTd4IUjYSj6ZN0gBimS_Oe5OSpe7B6I91qg/export/pdf)		|		|		|	Self-study	|
 |	37	|	**Models**	|		|				|		|		|		|
 |	38	|	Statistical Learning, Machine Learning	|		|		[📑](https://docs.google.com/presentation/d/1P3MkbJseVwLggUP_lGoNoZ3mk4_nOOBFZ6GmVzvBCzM/export/pdf)		|		|		|	Lecture	|
@@ -101,5 +100,5 @@ Welcome to our course Data Analytics with Statistics! 👋
 |	87	|	**Probability and Bayes**	|		|				|		|		|		|
 |	88	|	Probability and Bayes	|	[📺](https://www.youtube.com/watch?v=HZGCoVF3YvM)	|		[📑](https://docs.google.com/presentation/d/1dJ1b2iaWS9-tUO0AKLpjDJbohNtG4in1CCyQimPhXP0/export/pdf)		|		|		|	Self-study	|
 |	92	|	**Optional content**	|		|				|		|		|		|
-|	93	|	Data storytelling 	|		|		[💻](/data-storytelling.qmd)		|		|		|	*Optional*	|
+|	93	|	Data storytelling 	|		|				|		|		|	*Optional*	|
 |	94	|	Generative AI	|		|		[💻](https://llms-ws2324.github.io/website/)		|		|		|	*Optional*	|
