@@ -74,11 +74,11 @@ Welcome to our course Data Analytics with Statistics! 👋
 |	61	|	Adjusted R squared	|	[📚](https://openintro-ims.netlify.app/model-mlr.html#adjusted-r-squared)	|		[📑](https://docs.google.com/presentation/d/17l_8tVrVxyZRBZylkHa4J4ACCgp43gIqVgBQ5tuB9KM/export/pdf)		|		|		|	*Optional*	|
 |	62	|	Regression diagnostics	|		|				|		|	[💻](https://colab.research.google.com/github/kirenz/notebooks/blob/main/ims/copy/99-1-diagnostics.ipynb)	|	*Optional*	|
 |	63	|	**Model Selection Methods**	|		|				|		|		|		|
-|	64	|	Model selection methods	|	[📚](http://www.feat.engineering/selection.html)	|		[📑](https://docs.google.com/presentation/d/1nosMLlMYxQ6gMw9betZ9AL6z8sHGqM7s9jL-Mf0VnXo/export/pdf)		|		|		|	Self-study	|
-|	65	|	Implicit model selection	|	[📚](https://www.statlearning.com/)	|				|		|	[💻](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ims/08d-1-implicit.ipynb)	|	Self-study	|
+|	64	|	Model selection methods	|	[📚](http://www.feat.engineering/selection.html)	|		[📑](https://docs.google.com/presentation/d/1nosMLlMYxQ6gMw9betZ9AL6z8sHGqM7s9jL-Mf0VnXo/export/pdf)		|		|		|	*Optional*	|
+|	65	|	Implicit model selection	|	[📚](https://www.statlearning.com/)	|				|		|	[💻](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ims/08d-1-implicit.ipynb)	|	*Optional*	|
 |	66	|	Lasso regression	|	[📚](https://www.statlearning.com/)	|				|		|	[💻](https://colab.research.google.com/github/kirenz/notebooks/blob/main/ims/copy/99-1-lasso-c.ipynb)	|	*Optional*	|
-|	67	|	Filter model selection	|	[📚](http://www.feat.engineering/selection.html)	|				|		|	[💻](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ims/08d-2-filter.ipynb)	|	Self-study	|
-|	68	|	Wrapper model selection	|	[📚](http://www.feat.engineering/selection.html)	|				|		|	[💻](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ims/08d-3-wrapper.ipynb)	|	Self-study	|
+|	67	|	Filter model selection	|	[📚](http://www.feat.engineering/selection.html)	|				|		|	[💻](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ims/08d-2-filter.ipynb)	|	*Optional*	|
+|	68	|	Wrapper model selection	|	[📚](http://www.feat.engineering/selection.html)	|				|		|	[💻](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ims/08d-3-wrapper.ipynb)	|	*Optional*	|
 |	69	|	**Classification models**	|		|				|		|		|		|
 |	70	|	Classification	|		|		[📑](https://docs.google.com/presentation/d/1Uait12xIaTM9rdyxSEnzIbR8opENnoOOPefuPocze3s/export/pdf)		|		|		|	Lecture	|
 |	71	|	Precision recall and F1 score	|	[📚](https://mlu-explain.github.io/precision-recall/)	|		[📑](https://docs.google.com/presentation/d/1X3_Ju8egEA8GwH_r76rxHHoC7tvHt8tMWXyT9WKfUko/export/pdf)		|		|		|	Lecture	|
