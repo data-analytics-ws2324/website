@@ -72,7 +72,7 @@ Welcome to our course Data Analytics with Statistics! 👋
 |	59	|	Regression splines	|	[📚](https://www.statlearning.com/)	|				|		|	[💻](https://colab.research.google.com/github/kirenz/notebooks/blob/main/ims/copy/99-1-splines.ipynb)	|	*Optional*	|
 |	60	|	Generalized additive models	|	[📚](https://www.statlearning.com/)	|				|		|	[💻](https://colab.research.google.com/github/kirenz/notebooks/blob/main/ims/copy/99-1-gam.ipynb)	|	*Optional*	|
 |	61	|	Adjusted R squared	|	[📚](https://openintro-ims.netlify.app/model-mlr.html#adjusted-r-squared)	|		[📑](https://docs.google.com/presentation/d/17l_8tVrVxyZRBZylkHa4J4ACCgp43gIqVgBQ5tuB9KM/export/pdf)		|		|		|	*Optional*	|
-|	62	|	Regression diagnostics	|		|				|		|	[💻](https://colab.research.google.com/github/kirenz/notebooks/blob/main/ims/copy/99-1-diagnostics-c.ipynb)	|	Self-study	|
+|	62	|	Regression diagnostics	|		|				|		|	[💻](https://colab.research.google.com/github/kirenz/notebooks/blob/main/ims/copy/99-1-diagnostics.ipynb)	|	*Optional*	|
 |	63	|	**Model Selection Methods**	|		|				|		|		|		|
 |	64	|	Model selection methods	|	[📚](http://www.feat.engineering/selection.html)	|		[📑](https://docs.google.com/presentation/d/1nosMLlMYxQ6gMw9betZ9AL6z8sHGqM7s9jL-Mf0VnXo/export/pdf)		|		|		|	Self-study	|
 |	65	|	Implicit model selection	|	[📚](https://www.statlearning.com/)	|				|		|	[💻](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ims/08d-1-implicit.ipynb)	|	Self-study	|
