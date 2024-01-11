@@ -406,7 +406,6 @@ Here is a *suggested* outline as you think through the slides; you **do not** ha
 
 Please share the files online and put a link in the `README.md` file in the `reports/` folder.
 
-**For submission, also convert these slides to a .pdf document, and submit the file on Moodle.**
 
 
 ## GitHub Organization
@@ -447,10 +446,10 @@ Grading of the project will take into account the following:
 
 A general breakdown of scoring is as follows:
 
--   *90%-100%*: Outstanding effort. Student understands how to apply all statistical concepts, can put the results into a cogent argument, can identify weaknesses in the argument, and can clearly communicate the results to others.
+-   *90%-100%*: Outstanding effort. Student understands how to apply all statistical concepts, can put the results into a convincing argument, can identify weaknesses in the argument, and can clearly communicate the results to others.
 -   *80%-89%*: Good effort. Student understands most of the concepts, puts together an adequate argument, identifies some weaknesses of their argument, and communicates most results clearly to others.
--   *70%-79%*: Passing effort. Student has misunderstanding of concepts in several areas, has some trouble putting results together in a cogent argument, and communication of results is sometimes unclear.
--   *60%-69%*: Struggling effort. Student is making some effort, but has misunderstanding of many concepts and is unable to put together a cogent argument. Communication of results is unclear.
+-   *70%-79%*: Passing effort. Student has misunderstanding of concepts in several areas, has some trouble putting results together in a convincing argument, and communication of results is sometimes unclear.
+-   *60%-69%*: Struggling effort. Student is making some effort, but has misunderstanding of many concepts and is unable to put together a convincing argument. Communication of results is unclear.
 -   *Below 60%*: Student is not making a sufficient effort.
 
 ### Late work policy
